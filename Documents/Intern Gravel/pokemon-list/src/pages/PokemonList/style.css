@@ -1,0 +1,38 @@
+.title{
+    width: auto;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    font-family:'Franklin Gothic Heavy';
+    color: rgb(255, 213, 0);
+    -webkit-text-stroke: 2px rgb(0, 6, 116);
+    font-style:oblique;
+    background-color: rgb(255, 45, 45);
+    border: 6px solid rgb(30, 30, 30);
+    border-radius: 5px;
+}
+.pokemon-list{
+    height: 575px;
+}
+.base{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.pagination{
+    place-content: center;
+    margin-top: 5px;
+    padding-bottom: 7px;
+}
+.loading{
+    margin-left: 50%;
+    margin-top: 25%;
+   
+}
+.base{
+    background-image: linear-gradient(135deg, black, rgb(71, 71, 71) 20%, transparent 20%), linear-gradient(-135deg, black, rgb(71, 71, 71) 20%, transparent 20%)
+}
+.grid{
+    border:10px solid rgb(30, 30, 30);
+    background-color: rgb(233, 233, 233);
+    border-radius: 10px;
+}

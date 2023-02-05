@@ -1,0 +1,14 @@
+.pokeCard{
+    background-color: rgb(245, 245, 245);
+    height: 250px;
+    align-items: center;
+    margin: 10px 30px 0 40px;
+
+}
+.pokeName{
+    color: rgb(226, 166, 0);
+    font-family: 'Franklin Gothic Medium';
+}
+.pokeImg{
+    width: 180px;
+}

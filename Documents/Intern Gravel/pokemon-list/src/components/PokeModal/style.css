@@ -1,0 +1,38 @@
+.pokemonLargeImg{
+    position: relative;
+    width: 100%;
+
+}
+
+.containerImg{
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: rgb(233, 233, 233);
+   
+}
+
+.baseModal{
+    font-family:'Lucida Sans';
+
+}
+.stat{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.modalHeader{
+    background-color: rgb(55, 55, 193);
+    color: white;
+    border: 5px solid rgb(30, 30, 30);
+}
+.modalBody{
+    border: 5px solid rgb(30, 30, 30);
+    background-color: rgb(254, 211, 146);
+}
+.BasicInfo{
+    background-color: rgb(254, 211, 146);
+}
+.DetailInfo{
+    background-color: rgb(233, 233, 233);
+    border: 5px solid rgb(30, 30, 30);
+    border-radius: 10px;
+}
